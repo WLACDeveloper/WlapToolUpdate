@@ -4,4 +4,4 @@ branch = 'main'
 patch = 2
 repository = 'https://github.com/WLACDeveloper/Wlap-FlashTool/tree/main'
 #Если версия ниже минимальной, то начнется скачивание полной версии программыы
-update_packages=['settings/window_and_objects.py']
+update_packages=['settings/window_and_objects.py, version']
